@@ -6291,3 +6291,18 @@ body
 .mfp-close:before {
 	display: none;
 }
+
+.text-headings {
+	font-size: 1.2rem;
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+	color: white;
+}
+.b-spacing p {
+	margin: 0;
+	margin-bottom: 0.3rem;
+}
+.b-spacing {
+	margin-bottom: 2rem;
+}
