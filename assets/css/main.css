@@ -6257,6 +6257,7 @@ body
 	}
 	.hero-main-slider .slide-titles .subtitle {
 		display: block;
+		font-size: 20px;
 	}
 	.hero-main-slider .swiper-slide.animate-active .slide-titles .title:after {
 		opacity: 0;
@@ -6308,4 +6309,7 @@ body
 }
 .mix-blend p {
 	/* color: rgb(151, 140, 140); */
+	font-weight: bold;
+	color: #000;
+	opacity: 1;
 }
